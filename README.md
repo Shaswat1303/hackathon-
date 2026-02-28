@@ -1,1 +1,1 @@
-
+Hire Hub is a job-based platform designed to simplify the process of job searching and job posting. It provides a user-friendly interface where candidates can explore job opportunities, apply easily, and track hiring trends through an interactive dashboard. Recruiters can post job openings and manage applications efficiently. The platform focuses on simplicity, accessibility, and intelligent filtering to improve the overall job discovery experience.
